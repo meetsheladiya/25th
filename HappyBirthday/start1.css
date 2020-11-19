@@ -1,0 +1,49 @@
+h1
+{
+	text-align: center;
+	font-size: 50px;
+	color: #ff6262;
+	text-shadow: 1px 1px black;
+}
+img
+{
+	width: 350px;
+	margin: 67px;
+	border: 6px solid #ff6262;
+	box-shadow: 2px 2px;
+	padding: 1px;
+}
+button
+{
+	text-align: center;
+	margin: 69px;
+	padding: 7px;
+	border: 5px solid #ff6262;
+	box-shadow: 2px 2px;
+}
+button:hover
+{
+	transition: 0.3s;
+	background-color: #101820ff;
+	color: lightblue;
+	text-decoration: underline;
+}
+#Last
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+#Content
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+}
+body
+{
+	background-color: lightblue;
+}
